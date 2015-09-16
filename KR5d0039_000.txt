@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 道樞
+#+DATE: 2015-08-29 01:07:32
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
